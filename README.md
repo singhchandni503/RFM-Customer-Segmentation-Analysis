@@ -34,7 +34,8 @@ An end-to-end data analytics project performing **RFM (Recency, Frequency, Monet
 ---
 
 ## 📈 Visual Insights
-*(Add your plot screenshot here: `![RFM Analysis](rfm_analysis_plot.png)`)*
+<img width="4707" height="1849" alt="rfm_analysis_plot" src="https://github.com/user-attachments/assets/b425f370-a0fc-4e96-929b-02f07c32a5d5" />
+
 
 ### Key Business Takeaways:
 * **80/20 Rule in Action:** **Champions** represent ~26% of the customer base but drive **~67% of total revenue**.
