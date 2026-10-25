@@ -46,4 +46,4 @@ An end-to-end data analytics project performing **RFM (Recency, Frequency, Monet
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/singhchandni503/RFM-Customer-Segmentation-Analysis.git
