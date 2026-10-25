@@ -47,3 +47,10 @@ An end-to-end data analytics project performing **RFM (Recency, Frequency, Monet
 1. Clone this repository:
    ```bash
    git clone https://github.com/singhchandni503/RFM-Customer-Segmentation-Analysis.git
+
+---
+
+## 📁 Dataset
+* The analysis is performed on the standard **Online Retail Dataset** containing 540k+ transaction records.
+* **Download Link:** [Online Retail Dataset on Kaggle](https://www.kaggle.com/datasets/tunguz/online-retail)
+* *Note: Download and place `online_retail.csv` in the root directory before executing the notebook.*
